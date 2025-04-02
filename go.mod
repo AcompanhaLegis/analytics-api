@@ -2,8 +2,6 @@ module acompanhalegis-analytics-api
 
 go 1.21
 
-require github.com/golang/glog v1.1.2
-
 require (
 	github.com/elastic/go-elasticsearch/v8 v8.10.0
 	github.com/joho/godotenv v1.5.1
